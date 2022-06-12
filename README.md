@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h1>---------> https://django-todoapp-project.herokuapp.com/ <--------</h1>
+  <h2>---------> https://django-todoapp-project.herokuapp.com/ <--------</h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
