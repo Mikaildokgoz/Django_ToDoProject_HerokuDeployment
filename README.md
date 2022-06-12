@@ -4,11 +4,7 @@
 
 
 <div align="center">
-  <h1>
-    <a href="https://django-todoapp-project.herokuapp.com/">
-      Click Link
-    </a> 
-  </h1>
+  <h1>---------> https://django-todoapp-project.herokuapp.com/ <--------</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
