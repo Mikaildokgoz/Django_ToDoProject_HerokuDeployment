@@ -4,16 +4,11 @@
 
 
 <div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
-    </a>
- 
-  </h3>
+  <h1>
+    <a href="https://django-todoapp-project.herokuapp.com/">
+      Click Link
+    </a> 
+  </h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
